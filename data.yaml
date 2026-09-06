@@ -4,10 +4,3 @@ test: ../test/images
 
 nc: 2
 names: ['bike', 'car']
-
-roboflow:
-  workspace: skdanishirfan-gmail-com
-  project: urban-traffic-annotation
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/skdanishirfan-gmail-com/urban-traffic-annotation/dataset/1
